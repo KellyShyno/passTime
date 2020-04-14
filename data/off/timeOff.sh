@@ -1,6 +1,6 @@
 #!/bin/bash
 #KellyShyno
-#passShell
+#passTime
 
 trap '' 2 15 20
 

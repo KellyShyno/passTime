@@ -3,7 +3,7 @@
 #passTime
 
 echo "";
-echo -e "\e[1;33mUpdating passTime script\e[0m";
+echo -e "\e[1;33mUpdating passTime program..\e[0m";
 echo "";
 mkdir tmp
 cd tmp
